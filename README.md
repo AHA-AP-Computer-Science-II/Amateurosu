@@ -1,0 +1,2 @@
+# Amateurosu
+A rhythm game
