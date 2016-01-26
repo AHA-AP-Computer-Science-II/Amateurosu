@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RhythmGame/src"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/boxwrap2d.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/slick-examples.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/slick.jar"/>
+	<classpathentry kind="lib" path="RhythmGame/libraries/lib/tinylinepp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
